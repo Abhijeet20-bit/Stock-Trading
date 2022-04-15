@@ -1,0 +1,61 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 3 Mar, 2022, 11:01:11 PM
+    Author     : Hp
+*/
+.bg_css {
+    background-color: #00DBDE;
+    background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
+}
+.bg-img{
+    background: url("../img/StockBg.jpeg") no-repeat;
+    margin: 10px;
+}
+#nav {
+    margin: -10px;
+}
+.bg-login-abhi {
+    background: url("../img/StockBg.jpeg") no-repeat;
+    background-size: 3000px 1000px;
+}
+.bg-register-abhi {
+    background: url("../img/StockBg2.jpeg");
+    
+}
+#loginarea {
+    margin-top: 13%;
+}
+
+.form-select {
+    padding: 1rem 1rem;
+    margin: 0px 15px;
+    width: 100%;
+    color: #6e707e;
+    border: 1px solid #d1d3e2;
+    font-size: .8rem;
+    border-radius: 10rem;
+    
+}
+.form-input {
+    padding: 1rem 1rem;
+    margin: 15px 0px;
+    width: 99%;
+    color: #6e707e;
+    border: 1px solid #d1d3e2;
+    font-size: .8rem;
+    border-radius: 10rem;
+    
+}
+.scroll {
+    height: 420px;
+    overflow-y: scroll;
+}
+#NoDisplay {
+    font-family: Times, Times New Roman, serif;
+    margin: 10px;
+    color: rgb(0, 191, 255);
+}

@@ -1,0 +1,11 @@
+ Create Table StocksName ( Symbol Varchar2(20) Primary Key,
+ Name Varchar2(200) Not Null,
+ Last_Sale varchar2(200) Not null,
+ Net_Change Integer,
+ per_Change Varchar2(200),
+ Market_Cap Number,
+ Country Varchar2(200),
+ IPO Number,
+ Volume Number,
+Sector Varchar2(200),
+Industry Varchar2(200));
